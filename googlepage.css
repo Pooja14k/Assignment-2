@@ -49,12 +49,13 @@ section .main .searchBar .icon{
 }
 
 #searchIcon{
-    width: 50px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
 }
 #micIcon{
-    width: 30px;
-    height: 30px;
+    width: 20px;
+    height: 20px;
+    margin-top: 5px
 }
 .Button{
     margin: 0 5px;
